@@ -1,5 +1,7 @@
 This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
 
+Bu eser Creative Commons Atıf 4.0 Uluslararası lisansı ile lisanslanmıştır. Lisansın bir kopyası için, http://creativecommons.org/licenses/by/4.0/ linkini ziyaret edin.
+
 # Creative Commons Atıf-GayriTicari-Türetilemez 4.0 Uluslararası Kamu Lisansı
 Lisansa Konu Hakları (tanımı aşağıda verilmiştir) kullanarak, işbu Creative Commons Atıf-GayriTicari-Türetilemez Uluslararası Kamu Lisansının ("Kamu Lisansı") şart ve koşullarına tâbi olmayı kabul ve beyan etmektesiniz İşbu Kamu Lisansının bir sözleşme olarak yorumlanabildiği ölçüde, işbu şart ve koşulları kabul etmeniz karşılığında size Lisansa Konu Haklar verilmekte ve Lisans Veren size söz konusu hakları, işbu şart ve koşullar çerçevesinde Lisans Verenin, Lisanslı Materyalin kullanıma sunulmasından elde ettiği faydalar / menfaatler karşılığında sunmaktadır.
 
