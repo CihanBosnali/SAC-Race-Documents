@@ -1,7 +1,7 @@
 # Creative Commons Atıf-GayriTicari-Türetilemez 4.0 Uluslararası Kamu Lisansı
 Lisansa Konu Hakları (tanımı aşağıda verilmiştir) kullanarak, işbu Creative Commons Atıf-GayriTicari-Türetilemez Uluslararası Kamu Lisansının ("Kamu Lisansı") şart ve koşullarına tâbi olmayı kabul ve beyan etmektesiniz İşbu Kamu Lisansının bir sözleşme olarak yorumlanabildiği ölçüde, işbu şart ve koşulları kabul etmeniz karşılığında size Lisansa Konu Haklar verilmekte ve Lisans Veren size söz konusu hakları, işbu şart ve koşullar çerçevesinde Lisans Verenin, Lisanslı Materyalin kullanıma sunulmasından elde ettiği faydalar / menfaatler karşılığında sunmaktadır.
 
-Bölüm 1 - Tanımlar.
+### Bölüm 1 - Tanımlar.
 
 Uyarlanmış Materyal, Lisanslı Materyalden elde edilen veya Lisanslı Materyale Dayalı Telif Hakkı ve Benzeri Haklara tâbi bulunan ve Lisanslı Materyalin, Lisans Verene ait Telif Hakkı ve Benzeri Haklar çerçevesinde izin gerektirecek bir şekilde tercüme edildiği, değiştirildiği, düzenlendiği, dönüştürüldüğü veya tadil edildiği materyali ifade eder. İşbu Kamu Lisansı kapsamında, Lisanslı Materyalin bir müzik eseri, performans veya ses kaydı olması hâlinde, Uyarlanmış Materyal her zaman hareketli bir görüntü ile senkronize edildiği durumlarda üretilir / oluşur.
 Telif Hakkı ve Benzeri Haklar, herhangi bir sınırlama olmaksızın performans, yayın, ses kaydı ve Nevi Şahsına Münhasır Veritabanı Hakları da dâhil olmak üzere, hakların nasıl etiketlendiği veya kategorize edildiğine bakılmaksızın telif hakkını ve/veya telif hakkı ile yakından ilişkili benzeri hakları ifade eder. İşbu Kamu Lisansı kapsamında, Bölüm 2(b)(1)-(2) de belirtilen haklar Telif Hakkı veya Benzeri Haklar değildir.
@@ -14,7 +14,8 @@ GayriTicari, temel amacı ticarî avantaj veya parasal karşılığı olmayan ve
 Paylaşım, çoğaltma, kamuya açık sergileme, performans, dağıtma, yayma, iletim veya ithal etme gibi her nevi şekil veya işlem ile materyali kamuya temin etme veya kamu bireylerinin kendilerinin bireysel olarak seçeceği bir yerden ve yine kendilerinin seçecekleri bir zamanda materyale erişebileceği şekil ve yöntemler de dâhil olmak üzere materyalin kamunun kullanımına sunulması anlamına gelmektedir.
 Nevi Şahsına Münhasır Veritabanı Hakları, tadil edildiği ve/veya yenisiyle değiştirildiği şekliyle, veritabanlarının yasal muhafazası hakkındaki 96/9/EC sayılı ve 11 Mart 1996 tarihli Avrupa Parlamentosu ve Konseyi Direktifinden doğan telif hakkı dışındaki diğer hakları ve dünyanın herhangi bir yerinde geçerli buna eşdeğer hakları ifade etmektedir.
 Siz ve/veya Tarafınız, işbu Kamu Lisansı çerçevesinde Lisanslı Hakları kullanan kişi veya kuruluşu ifade eder. Sizin / Tarafınızın sözcüğü de benzer bir anlamı ifade etmektedir.
-Bölüm 2 - Kapsam.
+
+### Bölüm 2 - Kapsam.
 
 Lisansın verilmesi.
 İşbu Kamu Lisansı şart ve koşullarına tâbi olmak üzere Lisans Veren, Lisans Materyaline ait Lisansa Konu Haklarını, alttaki şartları gerçekleyen dünya çapında geçerli, telif ücreti olmayan, alt lisans tanıma hakkı barındırmayan mahiyette, münhasır olmayan, gayri kabili rücu bir lisans vermektedir:
@@ -32,7 +33,8 @@ Diğer haklar.
 Eserde değişiklik yapılmasını menetme hakkı gibi manevî haklar, aleniyet, gizlilik ve/veya diğer benzer şahsî haklar için, işbu Kamu Lisansı kapsamında lisans verilmemektedir; ancak, mümkün olduğu ölçüde Lisans Veren, başka türlü olmamak kaydıyla, yalnızca Sizin Lisansa Konu Hakları kullanabilmeniz için gerekli olduğu ölçüde, kendisinin sahibi olduğu bu tür haklardan feragat etmekte ve/veya bu tür hak iddialarında bulunmamayı kabul etmektedir.
 İşbu Kamu Lisansı kapsamında patent ve markalar için lisans verilmemektedir.
 Mümkün olduğu ölçüde Lisans Veren, gerek doğrudan gerekse herhangi bir gönüllü veya feragati kabil yasal veya zorunlu lisanslama tasarısı çerçevesinde bir meslek birliği aracılığı ile, Lisansa Konu Hakların kullanımı ile ilgili Sizden herhangi bir telif hakkı ücreti tahsil etme hakkından feragat etmektedir. Tüm diğer hâllerde Lisans Verenin, Lisanslı Materyalin Ticarî Amaç ile kullanıldığı hâller de dâhil olmak üzere bu tür telif hakkı ücretlerini tahsil etme hakkı mahfuzdur.
-Bölüm 3 - Lisans Koşulları.
+
+### Bölüm 3 - Lisans Koşulları.
 
 Lisansa Konu Hakların tarafınızca kullanımı, aşağıdaki koşul ve şartlara tâbidir.
 
@@ -52,7 +54,7 @@ Herhangi bir şüpheye mahal vermemek adına, işbu Kamu Lisansı Uyarlanmış M
 
 Lisanslı Materyali Paylaştığınız ortam, araç veya bağlama bağlı olarak, makul herhangi bir surette Bölüm 3(a)(1) de belirtilmiş koşulları yerine getirebilirsiniz. Örneğin, gerekli bilgileri ihtiva eden bir kaynağın URI veya bağlantı adresi belirterek, koşulları yerine getirmek makul olabilir.
 Lisans Veren tarafından talep edilmesi hâlinde, makul surette uygulanabilir olduğu ölçüde, Bölüm 3(a)(1)(A) da gerekli kılınan bilgileri kaldırmalısınız.
-Bölüm 4 - Nevi Şahsına Münhasır Veritabanı Hakları.
+### Bölüm 4 - Nevi Şahsına Münhasır Veritabanı Hakları.
 
 Lisansa Konu Haklar, Lisanslı Materyali Kullanımıniz için geçerli Nevi Şahsına Münhasır Veritabanı haklarını da kapsadığı durumlarda:
 
@@ -60,12 +62,12 @@ herhangi bir şüpheye mahal vermemek adına, yalnızca GayriTicari amaçlarla B
 Veritabanı içeriğinin tümünü veya önemli bir kısmını Nevi Şahsına Münhasır Veritabanı Haklarınızın olduğu bir veritabanına dâhil etmeniz durumunda, Nevi Şahsına Münhasır Veritabanı Haklarınızın olduğu veritabanı (münferit içerikleri hariç) Uyarlanmış Materyal teşkil edecektir; ve
 Veritabanı içeriğinin tamamını veya önemli bir kısmını Paylaşmanız durumunda Bölüm 3(a) daki şartlara uymanız mecburidir.
 Herhangi bir şüpheye mahal vermemek adına, Bölüm 4, Lisansa Konu Hakların diğer Telif Hakkı ve Benzer Hakları kapsadığı durumlarda Kamu Lisanslı çerçevesinde tâbi olduğunuz Yükümlülükleri tamamlayıcı mahiyette olup, bu Yükümlülüklerini yerini almamaktadır.
-Bölüm 5 - Garanti Reddi ve Sorumluluk Tahdidi.
+### Bölüm 5 - Garanti Reddi ve Sorumluluk Tahdidi.
 
 Lisans Veren tarafından ayrıca taahhüt edilmediği sürece, mümkün olduğu ölçüde Lisans Veren, Lisanslı Materyali olduğu gibi ve kullanılabilir olduğu şekilde sunmakta olup, zımnî, sarih, yasal veya diğer türlü Lisanslı Materyaller ile ilgili hiçbir beyan ve taahhütte bulunmamaktadır. Buna, herhangi bir sınırlama olmaksızın, mülkiyet hakkı, ticarete elverişlilik, belirli bir amaca uygunluk, ihlal durumunun olmaması, gizli veya diğer kusurların olmayışı, doğruluk veya gerek bilinen gerek fark edilebilir hatanın var olduğu veya olmadığına dair garanti ve taahhütler de dâhildir. Garanti reddine kısmen veya tamamen izin verilmediği durumlarda, işbu garanti reddi Sizin için geçerli olmayabilir.
 Mümkün olduğu ölçüde, Lisans Verene bu tür kayıp, masraf, gider, zarar ve/veya kusurların olabileceği hakkında bilgi verilmiş olsa dâhi, işbu Kamu Lisansından veya Lisanslı Materyalin kullanımından doğan hiçbir doğrudan özel, dolaylı, arızî, mütevellit, cezaî veya cezaî teminat veya hukuksal teori kapsamında veya diğer zayiat, masraf veya giderlerden dolayı (herhangi bir sınırlama olmaksızın ihmal de dâhil) Lisans Veren Size karşı hiçbir şekilde mesul olmayacaktır. Sorumluluk tahdidine kısmen veya tamamen izin verilmediği durumlarda, işbu tahdit / sınırlama Sizin için geçerli olmayabilir.
 Yukarıda öngörülen garanti reddi ve sorumluluk tahdidi, mümkün olduğu ölçüde, mutlak bir sorumluluk reddi veya sorumluluktan feragatte reddine en yakın şekilde yorumlanacaktır.
-Bölüm 6 - Süre ve Fesih.
+### Bölüm 6 - Süre ve Fesih.
 
 İşbu Kamu Lisansı, bu çerçevede lisans verilen Telif Hakkı ve Benzeri Hakların süresi boyunca geçerli olacaktır. Ancak, bu Kamu Lisansına uymadığınız takdirde, Kamu Lisansı çerçevesinde sahip olduğunuz haklar otomatik olarak feshedilecek ve sona erecektir.
 Lisanslı Materyali kullanma hakkınızın 6(a) numaralı Madde kapsamında feshedilmesi durumunda:
@@ -75,11 +77,11 @@ Lisans Veren tarafından açıkça hakların iade edilmesi üzerine hakkınız i
 Herhangi bir şüpheye mahal vermemek adına, 6(b) numaralı bu Bölüm, işbu Kamu Lisansının tarafınızca ihlal edilmesi ile ilgili Lisans Verenin sahip olabileceği düzeltme veya kanunî yollara başvurma haklarına halel getirmez.
 Herhangi bir şüpheye mahal vermemek adına Lisans Veren, ayrı şart veya koşullar altında da Lisanslı Materyali sunabilir veya her zaman Lisanslı Materyalin dağıtımını durdurabilir; ancak, öyle yapması işbu Kamu Lisansını feshetmeyecektir.
 1, 5, 6, 7 ve 8 numaralı Bölümler işbu Kamu Lisansının feshedilmesinden sonra da yürürlükte kalacaktır.
-Bölüm 7 - Diğer Şart ve Koşullar.
+### Bölüm 7 - Diğer Şart ve Koşullar.
 
 Açıkça kabul edilmedikçe Lisans Veren, Sizin tarafınızdan iletilebilecek ek veya farklı şart ve koşullara tâbi olmayacaktır.
 Lisanslı Materyalin kullanımına dair burada belirtilmemiş her nevi bir düzenleme, mutabakat veya anlaşma, işbu kamu Lisansının şart ve koşullarından ayrı ve bağımsızdır.
-Bölüm 8 - Yorum.
+### Bölüm 8 - Yorum.
 
 Herhangi bir şüpheye mahal vermemek adına işbu Kamu Lisansı, bu Kamu Lisansı kapsamında herhangi bir izin almaksızın yasal olarak mümkün olan Lisanslı Materyalin kullanımını herhangi bir şekilde azaltmamakta, sınırlamamakta, kısıtlamamakta veya herhangi bir şart getirmemekte olup, bu şekilde de yorumlanmayacaktır.
 Mümkün olduğu ölçüde, işbu Kamu Lisansının herhangi bir hükmünün icra mevkiinden yoksun sayılması durumunda, söz konusu hüküm, geçerli hale getirmek ve icra edilebilirlik kazandırmak için gereken asgari ölçüde otomatik olarak tadil edilecektir. Hükmün tadil edilememesi durumunda ise, kala şartlar ve koşulların uygulanabilirliğine halel getirmeksizin söz konusu hüküm işbu Kamu Lisansından çıkartılacaktır.
